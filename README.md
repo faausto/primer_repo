@@ -1,4 +1,4 @@
-# ** Práctico Integrador — Git y GitHub**
+# **Práctico Integrador — Git y GitHub**
 ## Descripción
 Repositorio de práctica para las clases 1, 2 y 3 de Software Factory.
 Contiene ejercicios de Git, GitHub y Python básico.
