@@ -1,7 +1,7 @@
 import os
 
 def limpiar():
-    os.system('cls')
+    os.system('cls' if os.name == 'nt' else 'clear')
 
 def obtener_numero(mensaje):
     while True:
